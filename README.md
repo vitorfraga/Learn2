@@ -18,4 +18,5 @@ Bom mas o que teremos aqui?
   - Dicas e sugestões
   - Ferramentas
   - Bancos de dados
+  - Estrutura de dados
 

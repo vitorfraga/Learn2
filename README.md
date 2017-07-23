@@ -10,6 +10,6 @@ Bom mas o que teremos aqui?
   - Text Mining
   - Mágica
   - Estudo de gráficos 
-  - Matemática e estatistica 
+  - Matemática e estatística 
   - Dicas e sugestões
 

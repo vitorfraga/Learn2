@@ -12,4 +12,5 @@ Bom mas o que teremos aqui?
   - Matemática e estatística 
   - Dicas e sugestões
   - Ferramentas
+  - Bancos de dados
 

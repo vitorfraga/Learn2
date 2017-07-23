@@ -8,7 +8,6 @@ Bom mas o que teremos aqui?
 
   - Machine learning
   - Text Mining
-  - Mágica
   - Estudo de gráficos 
   - Matemática e estatística 
   - Dicas e sugestões

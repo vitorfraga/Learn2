@@ -12,4 +12,5 @@ Bom mas o que teremos aqui?
   - Estudo de gráficos 
   - Matemática e estatística 
   - Dicas e sugestões
+  - Ferramentas
 

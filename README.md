@@ -20,3 +20,5 @@ Bom, mas o que teremos aqui?
   - Bancos de dados
   - Estrutura de dados
 
+
+Eventualmente, tudo que for inserido aqui será transformado em wiki ou artigo.

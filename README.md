@@ -1,7 +1,9 @@
 # DataLabs
 
+<p align="center">
+  <img src="https://image.flaticon.com/icons/png/128/33/33911.png"/>
+</p>
 
-![alt text](https://image.flaticon.com/icons/png/128/33/33911.png)
 
 Hello World! 
 

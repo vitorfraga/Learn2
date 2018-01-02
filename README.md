@@ -19,6 +19,6 @@ Bom, mas o que teremos aqui?
   - Ferramentas
   - Bancos de dados
   - Estrutura de dados
-
+  - Álgebra Linear
 
 Eventualmente, tudo que for inserido aqui será transformado em wiki ou artigo.

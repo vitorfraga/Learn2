@@ -20,5 +20,6 @@ Bom, mas o que teremos aqui?
   - Bancos de dados
   - Estrutura de dados
   - Álgebra Linear
+  - Análises de dados com PowerBI
 
 Eventualmente, tudo que for inserido aqui será transformado em wiki ou artigo.

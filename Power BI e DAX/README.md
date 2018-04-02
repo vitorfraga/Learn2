@@ -5,7 +5,7 @@
 
 # O que procuro aprender nesta sessão?
 
-- [ ] O que é p PowerBI?
+- [ ] O que é o PowerBI?
 - [ ] O que são funções DAX?
 - [ ] Diferenças de medidas e colunas calculadas
 - [ ] Principais Funções DAX

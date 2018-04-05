@@ -1,13 +1,13 @@
-# Machine Leaning
-<p> Nesta sessão vou inserir meus estudos sobre machine learning.
+# Matemática
+<p> Nesta sessão vou inserir meus estudos sobre matemática.
 	
 
 # O que procuro aprender nesta sessão?
 
-- [ ] algoritmo 
-- [ ] algoritmo
-- [ ] algoritmo
-- [ ] algoritmo
-- [ ] algoritmo
-- [ ] algoritmo
-- [ ] algoritmo
+- [ ] Teoria dos conuntos
+- [ ] Funções de uma variável
+- [ ] Funções de duas variáveis
+- [ ] Algebra linear
+- [ ] Derivadas
+- [ ] Integrais
+- [ ] Probabilidade e estatística

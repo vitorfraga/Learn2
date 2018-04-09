@@ -9,7 +9,7 @@ Modelagem de dados é um **conjunto de tabelas** conectadas por **relações ent
 
 # DAX 
 
-É a linguagem do Power Pivot, SSASS e Power BI  e uma peça fundamental de um modelo de dados.
+É a linguagem do Power Pivot e Power BI  e uma peça fundamental de um modelo de dados.
 
  - Permite cálculos extremamente avançados e complexos em poucas linhas de código
  - Simples, porém não é trivial
@@ -19,7 +19,7 @@ Modelagem de dados é um **conjunto de tabelas** conectadas por **relações ent
 DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constantes que podem ser usados em uma fórmula ou expressão, para cálcular e retornar um ou mais valores.
 
 # Medida x Coluna calculada
-| Coluna calculada | Coluna Calculada |
+| Medida | Coluna Calculada |
 |--|--|
 |Contexto de linha  | Contexto de filtro |
 |Valor calculado para cada linha da tabela  | Calculada somente para células que são usadas na tabela dinâmica ou gráfico dinâmico |

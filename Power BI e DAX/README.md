@@ -1,3 +1,4 @@
+
 # PowerBI e DAX *Cheat sheet*
 <p> Nesta pasta vou inserir meus estudos sobre PowerBI e DAX. O ponto de partida será utilizando um banco de dados que se chama Adventure Works que estão disponiveis
 	no site da Microsoft. <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49502">Link</a></p>
@@ -29,4 +30,26 @@ DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constante
 # Principais funções DAX
 | Nome| O que faz? | Sintaxe | Exemplo em
 |--|--|--|--|
-|Nome | o que deve fazer | |Adventure Works: Aba "xxx"
+|Filter| o que deve fazer | |Adventure Works: Aba "xxx"
+|IF| o que deve fazer | |Adventure Works: Aba "xxx"
+|CALCULATE| o que deve fazer | |Adventure Works: Aba "xxx"
+|ALL| o que deve fazer | |Adventure Works: Aba "xxx"
+|ALLSELECTED| o que deve fazer | |Adventure Works: Aba "xxx"
+|VALUES| o que deve fazer | |Adventure Works: Aba "xxx"
+|HASONEVALUE| o que deve fazer | |Adventure Works: Aba "xxx"
+|SELECTEDVALUE| o que deve fazer | |Adventure Works: Aba "xxx"
+|SUMX| o que deve fazer | |Adventure Works: Aba "xxx"
+|AVERAGEX| o que deve fazer | |Adventure Works: Aba "xxx"
+|MAXX| o que deve fazer | |Adventure Works: Aba "xxx"
+|TOTALYTD| o que deve fazer | |Adventure Works: Aba "xxx"
+|DATEADD| o que deve fazer | |Adventure Works: Aba "xxx"
+|SAMEPERIODLASTYEAR| o que deve fazer | |Adventure Works: Aba "xxx"
+|DATESBETWEEN| o que deve fazer | |Adventure Works: Aba "xxx"
+|DATAESINPERIOD| o que deve fazer | |Adventure Works: Aba "xxx"
+|LASTDATE| o que deve fazer | |Adventure Works: Aba "xxx"
+|LASTNOBLANK| o que deve fazer | |Adventure Works: Aba "xxx"
+|RANKX| o que deve fazer | |Adventure Works: Aba "xxx"
+|TOPN| o que deve fazer | |Adventure Works: Aba "xxx"
+|ADDCOLUMNS| o que deve fazer | |Adventure Works: Aba "xxx"
+|SUMMARIZECOLUMNS| o que deve fazer | |Adventure Works: Aba "xxx"
+|USERRELATIONSHIP| o que deve fazer | |Adventure Works: Aba "xxx"

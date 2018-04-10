@@ -1,4 +1,4 @@
-# PowerBI e DAX
+# PowerBI e DAX *Cheat sheet*
 <p> Nesta pasta vou inserir meus estudos sobre PowerBI e DAX. O ponto de partida será utilizando um banco de dados que se chama Adventure Works que estão disponiveis
 	no site da Microsoft. <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49502">Link</a></p>
 
@@ -25,3 +25,8 @@ DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constante
 |Valor calculado para cada linha da tabela  | Calculada somente para células que são usadas na tabela dinâmica ou gráfico dinâmico |
 |Utilizado quando se deseja expor os valores em um eixo do gráfico.  | Mais eficientes computacionalmente |
 |Consomem memória e são recalculadas a cada atualização | Utiliza sempre que tivermos valores para expor em um gráfico |
+
+# Principais funções DAX
+| Nome| O que faz? | Sintaxe | Exemplo em
+|--|--|--|--|
+|Nome | o que deve fazer | |Adventure Works: Aba "xxx"

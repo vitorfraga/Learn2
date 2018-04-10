@@ -18,8 +18,8 @@ Modelagem de dados é um **conjunto de tabelas** conectadas por **relações ent
 
 DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constantes que podem ser usados em uma fórmula ou expressão, para cálcular e retornar um ou mais valores.
 
-# Medida x Coluna calculada
-| Medida | Coluna Calculada |
+# Coluna calculada x Medida
+| Coluna calculada | Medida |
 |--|--|
 |Contexto de linha  | Contexto de filtro |
 |Valor calculado para cada linha da tabela  | Calculada somente para células que são usadas na tabela dinâmica ou gráfico dinâmico |

@@ -1,5 +1,3 @@
-# Learn²
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/vitorfraga/Learn2/master/img/logo.png"/>
 </p>

@@ -1,7 +1,7 @@
 # Learn²
 
 <p align="center">
-  <img src="https://image.flaticon.com/icons/png/128/33/33911.png"/>
+  <img src="https://raw.githubusercontent.com/vitorfraga/Learn2/master/img/logo.png"/>
 </p>
 
 

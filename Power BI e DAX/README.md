@@ -37,7 +37,7 @@ DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constante
 
 # Principais funções DAX
 | Nome| O que faz? | Exemplo em
-|--|--|--|--|
+|--|--|--|
 |Filter()| Filtra uma tabela com condições inseridas, é mais performático que usar o IF() em iterações como SUMX |Adventure Works: Aba "Filter e IF"
 |IF()| Realiza teste lógico através de condições, em iterações como SUMX, é melhor utilizar o Filter | Adventure Works: Aba "Filter e IF"
 |CALCULATE()| o que deve fazer | Adventure Works: Aba "xxx"

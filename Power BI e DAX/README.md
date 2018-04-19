@@ -3,6 +3,14 @@
 <p> Nesta pasta vou inserir meus estudos sobre PowerBI e DAX. O ponto de partida será utilizando um banco de dados que se chama Adventure Works que estão disponiveis
 	no site da Microsoft. <a href="https://www.microsoft.com/en-us/download/details.aspx?id=49502">Link</a></p>
 
+# Mapa mental de estudos
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitorfraga/Learn2/master/Power%20BI%20e%20DAX/imagens/mapa_mental_power_bi.PNG"/>
+</p>
+
+
+
 
 # Modelagem de dados
 

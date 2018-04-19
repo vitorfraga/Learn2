@@ -61,3 +61,10 @@ DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constante
 |ADDCOLUMNS()| o que deve fazer | Adventure Works: Aba "xxx"
 |SUMMARIZECOLUMNS()| o que deve fazer | Adventure Works: Aba "xxx"
 |USERRELATIONSHIP()| o que deve fazer | Adventure Works: Aba "xxx"
+
+
+# Desafios
+
+- [ ] Acumulado de vendas
+- [ ] Evolução de vendas por mês/ano em %
+ 

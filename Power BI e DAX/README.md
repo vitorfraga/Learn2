@@ -42,9 +42,9 @@ DAX (DATA ANALYSIS EXPRESSIONS) : Coleção de funções. operadores e constante
 |--|--|--|
 |Filter()| Filtra uma tabela com condições inseridas, é mais performático que usar o IF() em iterações como SUMX |Adventure Works: Aba "Filter e IF"
 |IF()| Realiza teste lógico através de condições, em iterações como SUMX, é melhor utilizar o Filter | Adventure Works: Aba "Filter e IF"
-|CALCULATE()| É uma das principais funções DAX, ela é capaz de alterar o contexto de avaliação | Adventure Works: Aba "A definir"
-|ALL()| o que deve fazer | Adventure Works: Aba "xxx"
-|ALLSELECTED()| o que deve fazer | Adventure Works: Aba "xxx"
+|CALCULATE()| É uma das principais funções DAX, ela é capaz de alterar o contexto de avaliação | Adventure Works: Aba "Calculate"
+|ALL()| Retira o Contexto de filtro aplicado na tabela | Adventure Works: Aba "Calculate"
+|ALLSELECTED()| Seleciona tudo dentro do filtro atual | Adventure Works: Aba "Calculate"
 |VALUES()| o que deve fazer | |Adventure Works: Aba "xxx"
 |HASONEVALUE()| o que deve fazer | Adventure Works: Aba "xxx"
 |SELECTEDVALUE()| o que deve fazer | Adventure Works: Aba "xxx"
